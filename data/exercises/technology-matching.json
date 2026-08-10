@@ -11,102 +11,102 @@
     {
       "q": "\"I think / I believe\"",
       "options": [
-        "a crisis of global proportions",
+        "beneficial to",
+        "detrimental to",
         "It is widely argued that",
-        "ideal vocation",
-        "furthermore"
+        "owing to"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
       "q": "\"use\"",
       "options": [
         "utilise",
-        "the next frontier of scientific inquiry",
-        "renewable energy sources",
-        "a significant driver of economic growth"
+        "a pressing concern",
+        "owing to",
+        "It is widely argued that"
       ],
       "correct": 0
     },
     {
       "q": "\"a lot of / many\"",
       "options": [
+        "It is widely argued that",
         "a significant number of",
-        "biodiversity",
-        "in the coming decades",
-        "facilitate"
-      ],
-      "correct": 0
-    },
-    {
-      "q": "\"good for\"",
-      "options": [
-        "groundbreaking scientific discovery",
-        "occurred in an earlier historical period",
-        "inextricably linked to cultural identity",
-        "beneficial to"
-      ],
-      "correct": 3
-    },
-    {
-      "q": "\"bad for\"",
-      "options": [
-        "impart knowledge",
-        "detrimental to",
-        "utilise",
-        "on-trend"
+        "furthermore",
+        "in the coming decades"
       ],
       "correct": 1
     },
     {
+      "q": "\"good for\"",
+      "options": [
+        "beneficial to",
+        "utilise",
+        "facilitate",
+        "It is widely argued that"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "\"bad for\"",
+      "options": [
+        "It is widely argued that",
+        "in the coming decades",
+        "detrimental to",
+        "beneficial to"
+      ],
+      "correct": 2
+    },
+    {
       "q": "\"big problem\"",
       "options": [
-        "aesthetically compelling",
-        "equilibrium between professional and personal life",
+        "utilise",
+        "a significant number of",
         "a pressing concern",
-        "on-trend"
+        "detrimental to"
       ],
       "correct": 2
     },
     {
       "q": "\"because\"",
       "options": [
-        "biodiversity",
+        "beneficial to",
         "owing to",
-        "nutritionally poor food",
-        "adopt sustainable practices"
+        "a significant number of",
+        "utilise"
       ],
       "correct": 1
     },
     {
       "q": "\"also\"",
       "options": [
-        "a sport of national cultural significance",
-        "furthermore",
-        "artificial intelligence in research",
-        "migrate to urban areas"
+        "It is widely argued that",
+        "facilitate",
+        "beneficial to",
+        "furthermore"
       ],
-      "correct": 1
+      "correct": 3
     },
     {
       "q": "\"help\"",
       "options": [
-        "social media-driven consumer behaviour",
-        "first language",
         "facilitate",
-        "financial remuneration"
+        "a significant number of",
+        "furthermore",
+        "a pressing concern"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "q": "\"in the future\"",
       "options": [
-        "migrate to urban areas",
-        "conduct rigorous empirical research",
-        "in the coming decades",
-        "mass transit systems"
+        "utilise",
+        "furthermore",
+        "detrimental to",
+        "in the coming decades"
       ],
-      "correct": 2
+      "correct": 3
     }
   ]
 }

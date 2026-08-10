@@ -1,0 +1,112 @@
+{
+  "slug": "technology-multiple-choice",
+  "title": "Technology — Multiple Choice",
+  "level": "IELTS",
+  "skill": "vocabulary",
+  "topic": "Technology",
+  "type": "mcq",
+  "lang": "en",
+  "passThreshold": 0.6,
+  "items": [
+    {
+      "q": "___ technology has fundamentally altered modern communication patterns.",
+      "options": [
+        "detrimental to",
+        "Evidence suggests that",
+        "facilitate",
+        "in the coming decades"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "Governments must ___ digital technology to improve public service delivery.",
+      "options": [
+        "a considerable proportion of",
+        "harness",
+        "conducive to",
+        "detrimental to"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "___ the population now relies on smartphones for daily tasks.",
+      "options": [
+        "pressing concerns",
+        "in the coming decades",
+        "Evidence suggests that",
+        "a considerable proportion of"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "Digital connectivity is highly ___ economic growth and sustainable innovation.",
+      "options": [
+        "harness",
+        "in the coming decades",
+        "conducive to",
+        "Evidence suggests that"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "Excessive screen time is demonstrably ___ children's cognitive development.",
+      "options": [
+        "facilitate",
+        "Evidence suggests that",
+        "a considerable proportion of",
+        "detrimental to"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "Cybersecurity represents one of the most ___ of the digital age.",
+      "options": [
+        "pressing concerns",
+        "in the coming decades",
+        "conducive to",
+        "owing to"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Productivity has increased significantly ___ widespread advances in automation.",
+      "options": [
+        "owing to",
+        "harness",
+        "facilitate",
+        "pressing concerns"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "___, the proliferation of mobile devices has transformed access to education.",
+      "options": [
+        "detrimental to",
+        "furthermore",
+        "owing to",
+        "pressing concerns"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "Digital platforms ___ the rapid exchange of knowledge across geographical borders.",
+      "options": [
+        "detrimental to",
+        "facilitate",
+        "harness",
+        "Evidence suggests that"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "___, automation is projected to displace millions of routine workers.",
+      "options": [
+        "owing to",
+        "in the coming decades",
+        "Evidence suggests that",
+        "detrimental to"
+      ],
+      "correct": 1
+    }
+  ]
+}
