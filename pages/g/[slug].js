@@ -8,7 +8,7 @@ export default function ExercisePage({ exercise }) {
   return (
     <div className="page">
       <Link href="/" className="back-link">
-        ← Усі вправи
+        ← All exercises
       </Link>
       {exercise.type === 'flashcards' ? (
         <FlashcardEngine exercise={exercise} />

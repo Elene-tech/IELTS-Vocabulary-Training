@@ -12,47 +12,5 @@
     "level": "IELTS",
     "skill": "vocabulary",
     "topic": "Technology"
-  },
-  {
-    "slug": "test-1-a1",
-    "title": "Test 1",
-    "level": "A1",
-    "skill": "grammar",
-    "topic": "Mixed Grammar"
-  },
-  {
-    "slug": "test-2-a1",
-    "title": "Test 2",
-    "level": "A1",
-    "skill": "grammar",
-    "topic": "Mixed Grammar"
-  },
-  {
-    "slug": "variant-1-a1-plus",
-    "title": "A1+ Variant 1",
-    "level": "A1+",
-    "skill": "grammar",
-    "topic": "Mixed Grammar"
-  },
-  {
-    "slug": "variant-2-a1-plus",
-    "title": "A1+ Variant 2",
-    "level": "A1+",
-    "skill": "grammar",
-    "topic": "Mixed Grammar"
-  },
-  {
-    "slug": "variant-3-a1-plus",
-    "title": "A1+ Variant 3",
-    "level": "A1+",
-    "skill": "grammar",
-    "topic": "Mixed Grammar"
-  },
-  {
-    "slug": "variant-3-a1",
-    "title": "Variant 3",
-    "level": "A1",
-    "skill": "grammar",
-    "topic": "Mixed Grammar"
   }
 ]
