@@ -1,0 +1,71 @@
+{
+  "slug": "technology-flashcards",
+  "title": "Technology — Flashcards",
+  "level": "IELTS",
+  "skill": "vocabulary",
+  "topic": "Technology",
+  "type": "flashcards",
+  "lang": "en",
+  "cards": [
+    {
+      "front": "I think / I believe",
+      "synonyms": "It is widely argued that · Evidence suggests that · It can be contended that",
+      "explanation": "These phrases sound more objective and formal — they avoid personal opinion in academic writing.",
+      "example": "Evidence suggests that technology has fundamentally altered modern communication patterns."
+    },
+    {
+      "front": "use",
+      "synonyms": "utilise · employ · harness · leverage",
+      "explanation": "Stronger, more precise verbs show a wider academic vocabulary range.",
+      "example": "Governments must harness digital technology to improve public service delivery."
+    },
+    {
+      "front": "a lot of / many",
+      "synonyms": "a significant number of · a considerable proportion of · a substantial majority of",
+      "explanation": "These phrases sound more precise and formal than vague quantifiers.",
+      "example": "A considerable proportion of the population now relies on smartphones for daily tasks."
+    },
+    {
+      "front": "good for",
+      "synonyms": "beneficial to · conducive to · advantageous to",
+      "explanation": "These adjectives express a positive effect in a more academic tone. All three can be followed by 'to' + a noun.",
+      "example": "Digital connectivity is highly conducive to economic growth and sustainable innovation."
+    },
+    {
+      "front": "bad for",
+      "synonyms": "detrimental to · harmful to · damaging to",
+      "explanation": "These adjectives describe negative effects formally. All three can be followed by 'to' + a noun.",
+      "example": "Excessive screen time is demonstrably detrimental to children's cognitive development."
+    },
+    {
+      "front": "big problem",
+      "synonyms": "a pressing concern · a critical issue · an urgent priority",
+      "explanation": "These noun phrases emphasise seriousness without sounding casual.",
+      "example": "Cybersecurity represents one of the most pressing concerns of the digital age."
+    },
+    {
+      "front": "because",
+      "synonyms": "owing to · as a consequence of · as a result of",
+      "explanation": "These connectors are all followed by a noun phrase (not a full clause) — e.g. 'owing to widespread advances'.",
+      "example": "Productivity has increased significantly owing to widespread advances in automation."
+    },
+    {
+      "front": "also",
+      "synonyms": "furthermore · moreover · in addition",
+      "explanation": "These formal linking words add information smoothly, often at the start of a sentence.",
+      "example": "Furthermore, the proliferation of mobile devices has transformed access to education."
+    },
+    {
+      "front": "help",
+      "synonyms": "facilitate · enable · foster · promote",
+      "explanation": "These verbs describe positive influence in a more precise, academic way.",
+      "example": "Digital platforms facilitate the rapid exchange of knowledge across geographical borders."
+    },
+    {
+      "front": "in the future",
+      "synonyms": "in the coming decades · in the foreseeable future · over the next generation",
+      "explanation": "These phrases sound more specific and formal than the vague 'in the future'.",
+      "example": "In the coming decades, automation is projected to displace millions of routine workers."
+    }
+  ]
+}

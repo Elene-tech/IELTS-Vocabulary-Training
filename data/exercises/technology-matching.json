@@ -1,0 +1,112 @@
+{
+  "slug": "technology-matching",
+  "title": "Technology — Matching",
+  "level": "IELTS",
+  "skill": "vocabulary",
+  "topic": "Technology",
+  "type": "mcq",
+  "lang": "en",
+  "passThreshold": 0.6,
+  "items": [
+    {
+      "q": "\"I think / I believe\"",
+      "options": [
+        "a crisis of global proportions",
+        "It is widely argued that",
+        "ideal vocation",
+        "furthermore"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "\"use\"",
+      "options": [
+        "utilise",
+        "the next frontier of scientific inquiry",
+        "renewable energy sources",
+        "a significant driver of economic growth"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "\"a lot of / many\"",
+      "options": [
+        "a significant number of",
+        "biodiversity",
+        "in the coming decades",
+        "facilitate"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "\"good for\"",
+      "options": [
+        "groundbreaking scientific discovery",
+        "occurred in an earlier historical period",
+        "inextricably linked to cultural identity",
+        "beneficial to"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "\"bad for\"",
+      "options": [
+        "impart knowledge",
+        "detrimental to",
+        "utilise",
+        "on-trend"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "\"big problem\"",
+      "options": [
+        "aesthetically compelling",
+        "equilibrium between professional and personal life",
+        "a pressing concern",
+        "on-trend"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "\"because\"",
+      "options": [
+        "biodiversity",
+        "owing to",
+        "nutritionally poor food",
+        "adopt sustainable practices"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "\"also\"",
+      "options": [
+        "a sport of national cultural significance",
+        "furthermore",
+        "artificial intelligence in research",
+        "migrate to urban areas"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "\"help\"",
+      "options": [
+        "social media-driven consumer behaviour",
+        "first language",
+        "facilitate",
+        "financial remuneration"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "\"in the future\"",
+      "options": [
+        "migrate to urban areas",
+        "conduct rigorous empirical research",
+        "in the coming decades",
+        "mass transit systems"
+      ],
+      "correct": 2
+    }
+  ]
+}
