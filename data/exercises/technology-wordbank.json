@@ -1,0 +1,73 @@
+{
+  "slug": "technology-wordbank",
+  "title": "Technology — Fill the Gap",
+  "level": "IELTS",
+  "skill": "vocabulary",
+  "topic": "Technology",
+  "type": "wordbank",
+  "lang": "en",
+  "words": [
+    "Evidence suggests that",
+    "harness",
+    "a considerable proportion of",
+    "conducive to",
+    "detrimental to",
+    "pressing concerns",
+    "owing to",
+    "furthermore",
+    "facilitate",
+    "in the coming decades"
+  ],
+  "items": [
+    {
+      "before": "",
+      "after": " technology has fundamentally altered modern communication patterns.",
+      "answer": "Evidence suggests that"
+    },
+    {
+      "before": "Governments must ",
+      "after": " digital technology to improve public service delivery.",
+      "answer": "harness"
+    },
+    {
+      "before": "",
+      "after": " the population now relies on smartphones for daily tasks.",
+      "answer": "a considerable proportion of"
+    },
+    {
+      "before": "Digital connectivity is highly ",
+      "after": " economic growth and sustainable innovation.",
+      "answer": "conducive to"
+    },
+    {
+      "before": "Excessive screen time is demonstrably ",
+      "after": " children's cognitive development.",
+      "answer": "detrimental to"
+    },
+    {
+      "before": "Cybersecurity represents one of the most ",
+      "after": " of the digital age.",
+      "answer": "pressing concerns"
+    },
+    {
+      "before": "Productivity has increased significantly ",
+      "after": " widespread advances in automation.",
+      "answer": "owing to"
+    },
+    {
+      "before": "",
+      "after": ", the proliferation of mobile devices has transformed access to education.",
+      "answer": "furthermore"
+    },
+    {
+      "before": "Digital platforms ",
+      "after": " the rapid exchange of knowledge across geographical borders.",
+      "answer": "facilitate"
+    },
+    {
+      "before": "",
+      "after": ", automation is projected to displace millions of routine workers.",
+      "answer": "in the coming decades"
+    }
+  ]
+}

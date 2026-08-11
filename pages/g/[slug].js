@@ -3,6 +3,7 @@ import path from 'path';
 import Link from 'next/link';
 import McqEngine from '../../components/McqEngine';
 import FlashcardEngine from '../../components/FlashcardEngine';
+import WordBankEngine from '../../components/WordBankEngine';
 
 export default function ExercisePage({ exercise }) {
   return (
@@ -12,6 +13,8 @@ export default function ExercisePage({ exercise }) {
       </Link>
       {exercise.type === 'flashcards' ? (
         <FlashcardEngine exercise={exercise} />
+      ) : exercise.type === 'wordbank' ? (
+        <WordBankEngine exercise={exercise} />
       ) : (
         <McqEngine exercise={exercise} />
       )}

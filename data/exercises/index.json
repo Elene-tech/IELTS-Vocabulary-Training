@@ -12,5 +12,19 @@
     "level": "IELTS",
     "skill": "vocabulary",
     "topic": "Technology"
+  },
+  {
+    "slug": "technology-multiple-choice",
+    "title": "Technology — Multiple Choice",
+    "level": "IELTS",
+    "skill": "vocabulary",
+    "topic": "Technology"
+  },
+  {
+    "slug": "technology-wordbank",
+    "title": "Technology — Fill the Gap",
+    "level": "IELTS",
+    "skill": "vocabulary",
+    "topic": "Technology"
   }
 ]
