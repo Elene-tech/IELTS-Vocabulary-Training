@@ -1,0 +1,112 @@
+{
+  "slug": "technology-matching",
+  "title": "Technology — Matching",
+  "level": "IELTS",
+  "skill": "vocabulary",
+  "topic": "Technology",
+  "type": "mcq",
+  "lang": "en",
+  "passThreshold": 0.6,
+  "items": [
+    {
+      "q": "\"I think / I believe\"",
+      "options": [
+        "beneficial to",
+        "detrimental to",
+        "It is widely argued that",
+        "owing to"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "\"use\"",
+      "options": [
+        "utilise",
+        "a pressing concern",
+        "owing to",
+        "It is widely argued that"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "\"a lot of / many\"",
+      "options": [
+        "It is widely argued that",
+        "a significant number of",
+        "furthermore",
+        "in the coming decades"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "\"good for\"",
+      "options": [
+        "beneficial to",
+        "utilise",
+        "facilitate",
+        "It is widely argued that"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "\"bad for\"",
+      "options": [
+        "It is widely argued that",
+        "in the coming decades",
+        "detrimental to",
+        "beneficial to"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "\"big problem\"",
+      "options": [
+        "utilise",
+        "a significant number of",
+        "a pressing concern",
+        "detrimental to"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "\"because\"",
+      "options": [
+        "beneficial to",
+        "owing to",
+        "a significant number of",
+        "utilise"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "\"also\"",
+      "options": [
+        "It is widely argued that",
+        "facilitate",
+        "beneficial to",
+        "furthermore"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "\"help\"",
+      "options": [
+        "facilitate",
+        "a significant number of",
+        "furthermore",
+        "a pressing concern"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "\"in the future\"",
+      "options": [
+        "utilise",
+        "furthermore",
+        "detrimental to",
+        "in the coming decades"
+      ],
+      "correct": 3
+    }
+  ]
+}
